@@ -1,5 +1,5 @@
 public class app{
-  publiv static void main(String[]args){
+  public static void main(String[]args){
     int x=8;
     int y=9;
     int add=x+y;
