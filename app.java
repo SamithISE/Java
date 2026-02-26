@@ -1,4 +1,4 @@
-public class Add{
+public class app{
   publiv static void main(String[]args){
     int x=8;
     int y=9;
